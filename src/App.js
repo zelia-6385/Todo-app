@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-// test ssh
 import { List, AddList, Tasks } from './components';
 
 function App() {
